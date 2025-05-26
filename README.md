@@ -1,4 +1,6 @@
-What is Reinforcement Learning?
+![SS.png](Images/SS.png)
+
+## What is Reinforcement Learning?
 Reinforcement learning is a machine learning technique used to train an agent (the entity being trained to act upon its environment) using rewards and punishments to teach positive versus negative behavior. For example, in this project, every time the agent eats fruit, it gets a reward. However, every time the agent dies, it receives a punishment. This teaches the agent that getting the fruit is good so it continually becomes better and better.
 
 
